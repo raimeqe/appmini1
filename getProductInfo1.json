@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "name": "Футболка VK basic collection",
+  "maxAvailable": 5,
+  "price": 4200,
+  "categoryId": [2, 0],
+  "description": "Чёрная облегающая футболка с удобной посадкой. Изготовлена из высококачественной хлопковой смеси. Состав: 90% хлопок, 10% полиэстер. Размеры: S — XL.",
+  "preview": "https://vk_miniapp_store_images.hb.ru-msk.vkcs.cloud/3_preview",
+  "photos": [
+    {
+      "url": "https://vk_miniapp_store_images.hb.ru-msk.vkcs.cloud/3_photo_1",
+      "appearence": "grey"
+    },
+    {
+      "url": "https://vk_miniapp_store_images.hb.ru-msk.vkcs.cloud/3_photo_2",
+      "appearence": "grey"
+    }
+  ],
+  "back": "grey"
+}
